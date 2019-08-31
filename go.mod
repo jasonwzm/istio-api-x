@@ -1,4 +1,4 @@
-module istio.io/api
+module github.com/jasonwzm/istio-api-x
 
 go 1.12
 
